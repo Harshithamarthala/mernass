@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mernass/static/css/main.e6c13ad2.css",
-    "main.js": "/mernass/static/js/main.0698faeb.js",
+    "main.js": "/mernass/static/js/main.be6571e3.js",
     "static/js/453.1b6cbde4.chunk.js": "/mernass/static/js/453.1b6cbde4.chunk.js",
     "index.html": "/mernass/index.html",
     "main.e6c13ad2.css.map": "/mernass/static/css/main.e6c13ad2.css.map",
-    "main.0698faeb.js.map": "/mernass/static/js/main.0698faeb.js.map",
+    "main.be6571e3.js.map": "/mernass/static/js/main.be6571e3.js.map",
     "453.1b6cbde4.chunk.js.map": "/mernass/static/js/453.1b6cbde4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.0698faeb.js"
+    "static/js/main.be6571e3.js"
   ]
 }
